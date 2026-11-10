@@ -4,6 +4,7 @@ title: "Health Communication & Community Research"
 permalink: /health-communication-community-research/
 description: "Led by Dr. Mengyan Ma"
 img: assets/img/mengyan.png
+applications: false
 importance: 9
 advisors:
   - name: Dr. Mengyan Ma

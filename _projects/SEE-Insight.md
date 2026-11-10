@@ -78,7 +78,7 @@ The SEE-Insight team welcome students from **all academic backgrounds** and leve
 
 Whether you're passionate about coding, data analysis, scientific research, design, communication, or something entirely different, we believe there's a meaningful project for you on our team.
 
-During the first semester (Spring 2026), our focus will be on establishing a strong foundation for a long-term VIP team. We seek students who are independent, self-motivated, and comfortable experimenting in a dynamic, evolving environment.
+During this team's third semester (Spring 2027), our focus will be on accelerating our substaintail progress on our many projects.  We seek more students who are independent, self-motivated, and comfortable experimenting in a dynamic, evolving environment.
 
 Useful preparation might include:
 
@@ -90,6 +90,6 @@ Useful preparation might include:
 
 ## Meeting Schedule & Location
 
-- **Required Meeting Time:** Mondays from 9:00am-10:00am
+- **Required Meeting Time:** Thursdays from 9:00am-10:00am
     - Subteams might also require regular or ad hoc meetings on Teams, but these will be arranged to suit all relevant members.
 - **Location:** Engineering Building 1502/1503 (CMSE Conference Room) - [Link to Directions](https://cmse.msu.edu/About/directions.aspx)

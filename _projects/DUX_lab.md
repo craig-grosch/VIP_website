@@ -4,7 +4,7 @@ title: "DUX Lab"
 permalink: /dux/
 description: "Led by Jeff Siarto"
 importance: 1
-applications: true
+applications: false
 img: assets/img/duk.png
 advisors:
   - name: Jeff Siarto
